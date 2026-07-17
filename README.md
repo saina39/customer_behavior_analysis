@@ -15,9 +15,6 @@ The dataset contains customer transaction and behavioral information, including 
 ## 🛠️ Tools & Technologies
 - **Python**
   - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
 - **MySQL Server**
 - **Power BI**
 - **Jupyter Notebook**
