@@ -91,10 +91,7 @@ The analysis helped identify:
 ## ▶️ How to Run
 
 1. Clone this repository.
-2. Install the required Python libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
+2. Install the required Python libraries.
 3. Open the Jupyter Notebook and run all cells.
 4. Import the cleaned dataset into MySQL Server.
 5. Execute the SQL queries included in the project.
